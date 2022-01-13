@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UjjwalPathaak
 - 👀 I’m interested in :shrug:
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Web Development
 - 📫 Reach me at pathak2002ujjwal@gmail.com
 
 <!---
