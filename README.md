@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Pathak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+![MasterHead](https://anku255.github.io/assets/img/posts/hello-world.jpg)
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 👨‍💻 All of my projects are available at [google.com](google.com)
 
-- 📫 How to reach me **pathak2002ujjwal@gmail.com**
+- 📫 Reach me **pathak2002ujjwal@gmail.com**
 
-- 📄 Know about my experiences [resume.link](resume.link)
+- 📄 Get a hold of my [resume](resume.link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
