@@ -22,6 +22,20 @@
 <a href="https://twitter.com/ujjwalpathaak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalpathaak" height="30" width="40" /></a>
 </p>
 
+# Work Experience
+
+### Projects
+- **InterviewLabs**
+- **Pintastic**
+
+### Open Source
+- **Wikimedia Foundation**
+
+### Internships
+- **Culinda Inc.**
+- **Exponance Twirltree LLP**
+
+
 # 💻 Tech Stack:
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1;">
