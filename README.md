@@ -8,7 +8,7 @@
 
 - 📄 Resume: [drive.google.com/file](https://drive.google.com/file/d/1NCjYLDoS8K5swuyCyP_cz_vX12nbSnn5/view?usp=sharing)
 - 📍 Location: Noida, India
-- 🌐 My Portfolio: [github.io/portfolio](https://ujjwalpathak.github.io/portfolio/)
+- 🌐 My Portfolio: [github.io/portfolio](https://ujjwalpathaak.github.io/portfolio/)
 - 📧 Reach me: pathak2002ujjwal@gmail.com
 - 💻 Leetcode: [leetcode.com/u/ujjwalpathaak](https://leetcode.com/u/ujjwalpathaak/)
 - 🌐 Linkedin: [linkedin.com/in/ujjwalpathaak](https://www.linkedin.com/in/ujjwalpathaak/)
