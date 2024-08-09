@@ -29,11 +29,11 @@
 - **Pintastic** - https://github.com/ujjwalpathaak/pintastic
 
 ### Open Source
-- **Wikimedia Foundation**
+- **Wikimedia Foundation** - [Contributions](https://ujjwalpathaak.github.io/portfolio/index.html#opensource)
 
 ### Internships
-- **Culinda Inc.**
-- **Exponance Twirltree LLP**
+- **Culinda Inc.** - [Work Done](https://ujjwalpathaak.github.io/portfolio/index.html#culinda)
+- **Exponance Twirltree LLP** - [Work Done](https://ujjwalpathaak.github.io/portfolio/index.html#exponance)
 
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
