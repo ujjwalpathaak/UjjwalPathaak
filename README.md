@@ -25,8 +25,8 @@
 # Work Experience
 
 ### Projects
-- **InterviewLabs** - https://github.com/ujjwalpathaak/interviewlabs
-- **Pintastic** - https://github.com/ujjwalpathaak/pintastic
+- **InterviewLabs** - [Website](https://github.com/ujjwalpathaak/interviewlabs) - [Video](https://www.youtube.com/watch?v=xdfgh-DcGBo)
+- **Pintastic** - [Website](https://github.com/ujjwalpathaak/pintastic) - [Video](https://www.youtube.com/watch?v=EpaIQ9daYc4)
 
 ### Open Source
 - **Wikimedia Foundation** - [Contributions](https://ujjwalpathaak.github.io/portfolio/index.html#opensource)
