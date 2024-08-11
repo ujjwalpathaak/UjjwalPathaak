@@ -6,7 +6,7 @@
 # 💫 About Me:
 <img align="right" alt="Coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 📄 Resume: [drive.google.com/file](https://drive.google.com/file/d/1NCjYLDoS8K5swuyCyP_cz_vX12nbSnn5/view?usp=sharing)
+- 📄 Resume: [drive.google.com/file](https://drive.google.com/file/d/1ofn6pKiv9AA1DXiFsviQp_6J_I_HvBKr/view?usp=sharing)
 - 📍 Location: Noida, India
 - 🌐 My Portfolio: [github.io/portfolio](https://ujjwalpathaak.github.io/portfolio/)
 - 📧 Reach me: pathak2002ujjwal@gmail.com
