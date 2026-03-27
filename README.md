@@ -1,18 +1,17 @@
 
 
 <h1 align="center">||| नमस्ते |||</h1>
-<h3 align="center">I'm Ujjwal a Software Engineer from भारत (India)</h3>
+<h3 align="center">I'm Ujjwal a Software Engineer</h3>
 
 # 💫 About Me:
 <img align="right" alt="Coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 📄 Resume: [drive.google.com/file](https://drive.google.com/file/d/1ofn6pKiv9AA1DXiFsviQp_6J_I_HvBKr/view?usp=sharing)
 - 📍 Location: Noida, India
-- 🌐 My Portfolio: [ujjwalpathak.tech](https://www.ujjwalpathak.tech)
+- 🌐 My Portfolio: [ujjwalpathak.tech]([https://www.ujjwalpathak.tech](https://portfolio-v2-ujjwalpathaaks-projects.vercel.app/))
 - 📧 Reach me: pathak2002ujjwal@gmail.com
 - 💻 Leetcode: [leetcode.com/u/ujjwalpathaak](https://leetcode.com/u/ujjwalpathaak/)
 - 🌐 Linkedin: [linkedin.com/in/ujjwalpathaak](https://www.linkedin.com/in/ujjwalpathaak/)
-- 📚 Currently learning to juggle my tasks :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
